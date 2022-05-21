@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1541342264 source:c:\cpp\class xii\squad management\main.cpp
+	<iostream>
+	<fstream>
+
+1540956324 source:c:\users\admin\desktop\squad management\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
+1541337117 source:c:\users\ritik aggarwal\desktop\squad management\main.cpp
+	<iostream>
+	<fstream>
+
+1541341514 source:c:\users\ritik aggarwal\desktop\squad management - copy\main.cpp
+	<iostream>
+	<fstream>
+
